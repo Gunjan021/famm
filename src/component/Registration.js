@@ -32,7 +32,7 @@ function Registration() {
     return (
         <div>
             <Header></Header>
-            <section class="vh-100" style={{ backgroundColor: '#eee' }}>
+            <section style={{ backgroundColor: '#eee', padding: '2rem 0rem' }}>
                 <div class="container h-100">
                     <div class="row d-flex justify-content-center align-items-center h-100">
                         <div class="col-lg-12 col-xl-11">
